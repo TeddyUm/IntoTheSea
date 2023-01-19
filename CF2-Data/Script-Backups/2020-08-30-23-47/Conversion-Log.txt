@@ -1,0 +1,20 @@
+Converting script [1 / 2]	[\Script\MainGameUI.cs]
+	Fragments : 1
+		[ 0] : Line:   32	InputMethod   GetKeyDown          	(KeyCode.Space)
+
+Converting script [2 / 2]	[\Script\Player.cs]
+	Fragments : 6
+		[ 0] : Line:   89	InputMethod   GetKeyDown          	(KeyCode.Space)
+		[ 1] : Line:  121	InputMethod   GetAxis             	("Horizontal")
+		[ 2] : Line:  128	InputMethod   GetKey              	(KeyCode.W)
+		[ 3] : Line:  137	InputMethod   GetKey              	(KeyCode.S)
+		[ 4] : Line:  146	InputMethod   GetKey              	(KeyCode.A)
+		[ 5] : Line:  153	InputMethod   GetKey              	(KeyCode.D)
+
+
+2 scripts modified!
+Overwriting actual scripts...
+	[0 / 2] from  [D:/Study/Programming/BearFishGames/1_IntoTheSea/Into The Sea/CF2-Data/Script-Backups/2020-08-30-23-47\Assets-After/\Script\MainGameUI.cs] to [D:/Study/Programming/BearFishGames/1_IntoTheSea/Into The Sea/Assets/\Script\MainGameUI.cs]
+	[1 / 2] from  [D:/Study/Programming/BearFishGames/1_IntoTheSea/Into The Sea/CF2-Data/Script-Backups/2020-08-30-23-47\Assets-After/\Script\Player.cs] to [D:/Study/Programming/BearFishGames/1_IntoTheSea/Into The Sea/Assets/\Script\Player.cs]
+
+Overwriting COMPLETED!
