@@ -8,4 +8,4 @@ Simple boost game<br>
 
 <img src="https://github.com/TeddyUm/Unity_IntoTheSea_BoostGame/blob/main/1676950858351.jpg" width="250" height="400">
 <img src="https://github.com/TeddyUm/Unity_IntoTheSea_BoostGame/blob/main/1676951115486.jpg" width="250" height="400">
-<img src="https://github.com/TeddyUm/Unity_IntoTheSea_BoostGame/blob/main/1676951153452.jpg" width="400" height="250">
+<img src="https://github.com/TeddyUm/Unity_IntoTheSea_BoostGame/blob/main/1676951153452.jpg" width="250" height="400">
